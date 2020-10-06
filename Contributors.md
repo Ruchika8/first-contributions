@@ -1,4 +1,12 @@
 # Contributors
+- [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
+- [Rishabh Jain](https://github.com/rishabh-jain424)
+- [Shreshta Alladi](https://github.com/Shreshta2589)
+- [Juthika D](https://github.com/DJuthika)
+- [Arya Soman](https://github.com/aryasoman333)
+- [Sakshi Jain](https://github.com/sakshimjain)
+- [Simreen Kaur](https://github.com/simreenkaur/)
 - [Sherin V](https://github.com/SherinV/)
 - [Zuliat Owoade](https://github.com/zuliatowoade)
 - [Gracyn Green](https://github.com/gg371)
@@ -146,7 +154,7 @@
 - [Pedro Gesta](https://github.com/pedrogestajr)
 - [Danny Cheun](https://github.com/dcheun)
 - sejal
--[Israel](https://github.com/israeltn)
+- [Israel](https://github.com/israeltn)
 - [Amit Yadav]
 - [Pretam Chandra]
 - [Kritika Yadav]
@@ -196,6 +204,7 @@
 - [Aurora Wang](https://github.com/auroralimin)
 - [Shiwani Kumari](https://github.com/Shiwani19890)
 - [Khadija Zavery]
+- SK
 - [Ko Junghwan] (https://github.com/kukuku0517)
 - [Saloni Gupta] (https://github.com/shades-7)
 - [Sriram Sathish](https://github.com/sriram0107)
@@ -315,12 +324,14 @@
 - [Shubham Sharma] (https://github.com/Shubham1605)
 - [Darshil Papalkar](https://github.com/Darshil-Papalkar)
 - [Syeda Zehra] (https://github.com/SyedaZehra95)
+- [Reyna Zaru](https://github.com/reynazee)
+- [Devesh Baranwal](https://github.com/DeveshBaranwal)
 - [Chandan Shetti](https://github.com/ChandanRS)
-- [Hitesh Kumar] (https://github.com/hiteshhedwig)
-- [Mohit Dayal] (https://github.com/mohit385)
+- [Hitesh Kumar](https://github.com/hiteshhedwig)
+- [Mohit Dayal](https://github.com/mohit385)
 - [Reyna Zaru](https://github.com/reynazee)
 - [Agrim Bansal](https://github.com/Agrim-Bansal)
-- [Tan Jun Hong] (https://github.com/shiori-12)
+- [Tan Jun Hong](https://github.com/shiori-12)
 - TrueHighGrade
 - [Daniel Armenta](https://github.com/h8moss)
 - [Yashasvi Bhatt](https://github.com/YashasviBhatt)
@@ -435,6 +446,7 @@
 - [Abhishek Kumar Tiwari] (https://github.com/abhishake5)
 - [Ayushi Jain] (https://github.com/aj-spec)
 - [Ketan Patel] (https://github.com/kpatel2000)
+- [Shahana Khan](https://github.com/TechieOwl)
 - [Krish Nerkar](https://github.com/krish-Nerkar)
 - [Pitambara Awadhesh](https://github.com/Pitambara16)
 - [Madhur Agrawal](https://github.com/madhur0809)
@@ -3247,6 +3259,7 @@ Khushi Gupta
 - [Catalin Gheorghiu](https://github.com/CatalinGheorghiu)
 - [Andrey Ponomarev](https://github.com/ponomarevandrey)
 - [JebDenou Ladbulab](https://github.com/courrier1)
+- [Heidi H](https://github.com/heieidi)
 - [Andrew Costello](https://github.com/Andrewsyl)
 - [Oleksiy Onishchenko](https://github.com/Oleksiy1990)
 - [theerrors](https://github.com/TheErrrors)
@@ -6031,6 +6044,7 @@ Khushi Gupta
 - [Kasun Hewagama](https://github.com/KasunHewagama)
 - [Moritz Stüve](https://github.com/mostueve)
 - [Shivam Raj](https://github.com/nullcoder08)
+- [Angelina Tang](https://github.com/AngelinaNTang)
 - [Raman Sharma](https://github.com/creativefisher)
 - [Faruk Dange](https://github.com/MegaEfdee)
 - [Mihir Soni](https://github.com/mihirsoni826)
@@ -6196,10 +6210,16 @@ Khushi Gupta
 - [Ashwin Anil](https://github.com/ASHWIN776)
 - [Julia Garbuz](https://github.com/juliagarbuz)
 - [Miriam Grigsby](https://github.com/miriamgrigsby)
+- [Kristin Haberkamp](https://github.com/khaberkamp)
+- Kayla M
+- [Sarah Dirienzo](https://github.com/sdirien)
+- shubham Saloni
+- [Neelima Parakala](https://github.com/neelimapp) 
 - [Jessi Heger](https://github.com/jessiheger)
 - [Brooke Holliday](https//github.com/Brooke-holliday)
 - [Rucha R](https://github.com/Ruchared)
 - [Aarti Bajaj](https://github.com/bajaj-aarti)
+- [Kelly Chen](https://github.com/thekellychen)
 - [Cassidy Schneider](https://github.com/cassidyschneider)
 - [Muhsin shah](https://github.com/shah21)
 - [Lakshmipriya](https://github.com/lakshmipriyamukundan)
@@ -6272,3 +6292,4 @@ Khushi Gupta
 - [Shiv Chauhan](https://github.com/xqbptt) 
 - [Ofir](https://github.com/Ofir22822)
 - [Ezekie John Alvar](https://github.com/alvarezekiel19)
+- [Ruchika Salwan](https://github.com/Ruchika8)
